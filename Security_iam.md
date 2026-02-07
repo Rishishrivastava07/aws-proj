@@ -153,14 +153,3 @@ It resulted in error, because the user is not authorized to do so.
 
 ![Image](http://learn.nextwork.org/authentic_lavender_mysterious_beaver/uploads/aws-security-iam_1811801c)
 
----
-
-## IAM Policy Simulator
-
-### Understanding the IAM Policy Simulator
-
-### How I used the simulator
-
----
-
----
