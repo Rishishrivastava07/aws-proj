@@ -9,7 +9,8 @@ This project demonstrates the design and implementation of a **highly available,
 The architecture follows production-grade best practices by eliminating single points of failure and isolating application servers within private subnets.
 
 🏗 Architecture Diagram
-![VPC Architecture Diagram](./project-architecture.png){width=400px height=400px}
+![VPC Architecture Diagram](./project-architecture.png)
+<img src = project-architure.png height=400px wodth=200px> 
 
 
 🧱 Infrastructure Components
